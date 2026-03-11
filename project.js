@@ -1,7 +1,7 @@
 const projectList = [
             {
                 id:1,
-                img: "portfolio.png" ,
+                img: "Portfolio.png" ,
                 title: "Personal Portfolio Website" ,
                 tech: ["HTML5","CSS3","JavaScript","Responsive Design"],
                 details: "A modern and responsive personal portfolio website developed to showcase my skills, projects, and educational background. The website features structured sections, dynamic content rendering using JavaScript, and a clean user interface to provide smooth navigation. It highlights my development abilities while presenting my work and achievements in a professional and visually appealing way.",
